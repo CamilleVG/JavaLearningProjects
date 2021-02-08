@@ -1,0 +1,13 @@
+---
+:id: 27471780
+:submitters:
+- :name: Camille Van Ginkel
+  :email: u0953582@utah.edu
+- :name: JULIA MA
+  :email: u0918404@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-01-23 03:51:36.085415000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-01-22 19:51:36.085415000 Z
+:status: processed

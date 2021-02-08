@@ -1,0 +1,5 @@
+package assign06;
+public class Class11 {
+	public static void main(String[] args) {
+        System.out.println("Hello World");
+    }

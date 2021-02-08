@@ -1,0 +1,14 @@
+---
+:id: 31259638
+:submitters:
+- :name: Camille Van Ginkel
+  :email: u0953582@utah.edu
+- :name: JOSHUA HARDY
+  :email: u1255474@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-05 01:18:22.744481000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-04 17:18:22.744481000 Z
+:status: processed
+:score: 59.5
